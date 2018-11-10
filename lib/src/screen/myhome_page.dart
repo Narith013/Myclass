@@ -22,6 +22,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   MyTextfield('hitText'),
                   SizedBox(height: 3.0,),
                   MyTextfield('hitText'),
+                  MyTextfield('hitText'),
                 ],
               ),
                Column(
