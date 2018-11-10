@@ -7,7 +7,7 @@ class NewTesting extends StatelessWidget {
       child: Column(
         children: <Widget>[
           new Container(
-            child: Text('data'),
+            child: Text('datadddd'),
           )
         ],
       ),
